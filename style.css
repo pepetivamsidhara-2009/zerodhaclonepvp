@@ -1,0 +1,70 @@
+button{
+    background-color: skyblue;
+    color: white;
+    padding: 10px 30px;
+   margin: 10px 50px  ;
+   border-radius: 10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration:underline;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+}
+#logo{
+    width: 125px;
+    height: 50px;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    text-decoration:  underline;
+
+}
+#iframe1{
+    margin: 20px 50px;
+}
+#iframe2{
+    margin: 20px 50px;
+}
+#iframe3{
+    margin: 20px 50px;
+}
+#iframe4{
+    margin: 20px 50px;
+}
+#iframe5{
+    margin: 20px 50px;
+}
+#iframe6{
+    margin: 20px 50px;
+}
+#iframe7{
+    margin: 20px 50px;
+}
+#iframe8{
+    margin: 20px 50px;
+}
+#iframe9{
+    margin: 20px 50px;
+}
+#videos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+#img1{
+    width: 500px;
+    margin: 20px 50px;
+}
